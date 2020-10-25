@@ -1,5 +1,5 @@
 # GlassBox:
-GlassBox at MIT PolicyHackathon April-2019. Bringing transparency and auditability to recidivism risk-assessment and parole/pre-trial decision-making process.
+GlassBox at MIT PolicyHackathon April-2019. Bringing transparency and auditability to recidivism risk-assessment and parole/pre-trial decision-making process. This challenge was sponsored by Berkman Klein Center for Internet and Society at Harvard University.
 
 
 # Inspiration:
